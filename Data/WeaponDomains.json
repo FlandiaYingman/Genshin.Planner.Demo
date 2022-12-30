@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "炼武秘境：砂之祭场 I",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "鸣神御灵的明惠" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "火史莱姆", "大型火史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：砂之祭场 II",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "鸣神御灵的明惠" },
+      { "name": "鸣神御灵的欢喜" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "大型水史莱姆", "大型火史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：砂之祭场 III",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "鸣神御灵的明惠" },
+      { "name": "鸣神御灵的欢喜" },
+      { "name": "鸣神御灵的亲爱" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "大型水史莱姆", "大型火史莱姆", "水深渊法师", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：砂之祭场 IV",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "鸣神御灵的明惠" },
+      { "name": "鸣神御灵的欢喜" },
+      { "name": "鸣神御灵的亲爱" },
+      { "name": "鸣神御灵的勇武" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "雷弹丘丘人", "大型雷史莱姆", "变异雷史莱姆", "雷斧丘丘暴徒" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：水光之城 I",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "高塔孤王的破瓦" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：水光之城 II",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "高塔孤王的破瓦" },
+      { "name": "高塔孤王的残垣" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "木盾丘丘人" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：水光之城 III",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "高塔孤王的破瓦" },
+      { "name": "高塔孤王的残垣" },
+      { "name": "高塔孤王的断片" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "水丘丘萨满", "水深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：水光之城 IV",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "高塔孤王的破瓦" },
+      { "name": "高塔孤王的残垣" },
+      { "name": "高塔孤王的断片" },
+      { "name": "高塔孤王的碎梦" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "大型水史莱姆", "水深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：引业 I",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "烈日威权的残响" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "伸缩火蕈兽", "浮游草蕈兽", "浮游水蕈兽", "旋转雷蕈兽" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：引业 II",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "烈日威权的残响" },
+      { "name": "烈日威权的余光" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "旋转冰蕈兽", "伸缩火蕈兽", "伸缩岩蕈兽", "浮游草蕈兽", "旋转雷蕈兽" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：引业 III",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "烈日威权的残响" },
+      { "name": "烈日威权的余光" },
+      { "name": "烈日威权的梦想" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "伸缩火蕈兽", "旋转冰蕈兽", "伸缩岩蕈兽", "旋转雷蕈兽", "浮游草蕈兽", "陆行水本真蕈", "有翼草本真蕈" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：引业 IV",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "烈日威权的残响" },
+      { "name": "烈日威权的余光" },
+      { "name": "烈日威权的梦想" },
+      { "name": "烈日威权的旧日" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "浮游水蕈兽", "浮游草蕈兽", "陆行水本真蕈", "有翼草本真蕈" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：思惑 I",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "绿洲花园的追忆" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "伸缩火蕈兽", "浮游草蕈兽", "浮游水蕈兽", "旋转雷蕈兽" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：思惑 II",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "绿洲花园的追忆" },
+      { "name": "绿洲花园的恩惠" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "旋转冰蕈兽", "伸缩火蕈兽", "伸缩岩蕈兽", "浮游草蕈兽", "旋转雷蕈兽" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：思惑 III",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "绿洲花园的追忆" },
+      { "name": "绿洲花园的恩惠" },
+      { "name": "绿洲花园的哀思" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "伸缩火蕈兽", "旋转冰蕈兽", "伸缩岩蕈兽", "旋转雷蕈兽", "浮游草蕈兽", "陆行水本真蕈", "有翼草本真蕈" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：思惑 IV",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "绿洲花园的追忆" },
+      { "name": "绿洲花园的恩惠" },
+      { "name": "绿洲花园的哀思" },
+      { "name": "绿洲花园的真谛" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "浮游水蕈兽", "浮游草蕈兽", "陆行水本真蕈", "有翼草本真蕈" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：渴水的废都 I",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "狮牙斗士的枷锁" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：渴水的废都 II",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "狮牙斗士的枷锁" },
+      { "name": "狮牙斗士的铁链" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "木盾丘丘人" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：渴水的废都 III",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "狮牙斗士的枷锁" },
+      { "name": "狮牙斗士的铁链" },
+      { "name": "狮牙斗士的镣铐" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "水丘丘萨满", "水深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：渴水的废都 IV",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "狮牙斗士的枷锁" },
+      { "name": "狮牙斗士的铁链" },
+      { "name": "狮牙斗士的镣铐" },
+      { "name": "狮牙斗士的理想" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "大型水史莱姆", "水深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：流沙之葬 I",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "今昔剧画之恶尉" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "火史莱姆", "大型火史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：流沙之葬 II",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "今昔剧画之恶尉" },
+      { "name": "今昔剧画之虎啮" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "大型水史莱姆", "大型火史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：流沙之葬 III",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "今昔剧画之恶尉" },
+      { "name": "今昔剧画之虎啮" },
+      { "name": "今昔剧画之一角" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "大型水史莱姆", "大型火史莱姆", "水深渊法师", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：流沙之葬 IV",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "今昔剧画之恶尉" },
+      { "name": "今昔剧画之虎啮" },
+      { "name": "今昔剧画之一角" },
+      { "name": "今昔剧画之鬼人" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "雷弹丘丘人", "大型雷史莱姆", "变异雷史莱姆", "雷斧丘丘暴徒" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：深没之谷 I",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "凛风奔狼的始龀" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：深没之谷 II",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "凛风奔狼的始龀" },
+      { "name": "凛风奔狼的裂齿" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "木盾丘丘人" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：深没之谷 III",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "凛风奔狼的始龀" },
+      { "name": "凛风奔狼的裂齿" },
+      { "name": "凛风奔狼的断牙" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "水丘丘萨满", "水深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：深没之谷 IV",
+    "region": "蒙德",
+    "domainentrance": "塞西莉亚苗圃",
+    "domaintype": "武器突破素材",
+    "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "冰元素", "火元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "凛风奔狼的始龀" },
+      { "name": "凛风奔狼的裂齿" },
+      { "name": "凛风奔狼的断牙" },
+      { "name": "凛风奔狼的怀乡" }
+    ],
+    "disorder": [ "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。" ],
+    "monsterlist": [ "大型水史莱姆", "水深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Water" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：沉沙之渊 I",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "远海夷地的瑚枝" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "水史莱姆", "大型水史莱姆", "火史莱姆", "大型火史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：沉沙之渊 II",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "远海夷地的瑚枝" },
+      { "name": "远海夷地的玉枝" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "大型水史莱姆", "大型火史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：沉沙之渊 III",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "远海夷地的瑚枝" },
+      { "name": "远海夷地的玉枝" },
+      { "name": "远海夷地的琼枝" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "大型水史莱姆", "大型火史莱姆", "水深渊法师", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：沉沙之渊 IV",
+    "region": "稻妻",
+    "domainentrance": "砂流之庭",
+    "domaintype": "武器突破素材",
+    "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "岩元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "远海夷地的瑚枝" },
+      { "name": "远海夷地的玉枝" },
+      { "name": "远海夷地的琼枝" },
+      { "name": "远海夷地的金枝" }
+    ],
+    "disorder": [ "队伍中所有角色的护盾强效提升40%。", "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。" ],
+    "monsterlist": [ "雷弹丘丘人", "大型雷史莱姆", "变异雷史莱姆", "雷斧丘丘暴徒" ],
+    "images": { "namepic": "UI_DungeonPic_Rock" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：云垢 I",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "谧林涓露的铜符" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "伸缩火蕈兽", "浮游草蕈兽", "浮游水蕈兽", "旋转雷蕈兽" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：云垢 II",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "谧林涓露的铜符" },
+      { "name": "谧林涓露的铁符" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "旋转冰蕈兽", "伸缩火蕈兽", "伸缩岩蕈兽", "浮游草蕈兽", "旋转雷蕈兽" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：云垢 III",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "谧林涓露的铜符" },
+      { "name": "谧林涓露的铁符" },
+      { "name": "谧林涓露的银符" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "伸缩火蕈兽", "旋转冰蕈兽", "伸缩岩蕈兽", "旋转雷蕈兽", "浮游草蕈兽", "陆行水本真蕈", "有翼草本真蕈" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：云垢 IV",
+    "region": "须弥",
+    "domainentrance": "有顶塔",
+    "domaintype": "武器突破素材",
+    "description": "外界蕈兽大量增殖，原本平静的古遗迹中也成为了孢子的沃土。\n消灭其中的魔物，或许能获得强化装备的物质吧。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "草元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "谧林涓露的铜符" },
+      { "name": "谧林涓露的铁符" },
+      { "name": "谧林涓露的银符" },
+      { "name": "谧林涓露的金符" }
+    ],
+    "disorder": [ "敌人处于原激化状态下时，所有元素抗性降低20%。脱离原激化状态后，该效果会在5秒内消失。" ],
+    "monsterlist": [ "浮游水蕈兽", "浮游草蕈兽", "陆行水本真蕈", "有翼草本真蕈" ],
+    "images": { "namepic": "UI_DungeonPic_XMWeapon01" },
+    "version": "3.0"
+  },
+  {
+    "name": "炼武秘境：雷云祭坛 I",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "孤云寒林的光砂" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量。" ],
+    "monsterlist": [ "雷史莱姆", "大型雷史莱姆", "变异雷史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：雷云祭坛 II",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "孤云寒林的光砂" },
+      { "name": "孤云寒林的辉岩" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量。" ],
+    "monsterlist": [ "雷史莱姆", "大型雷史莱姆", "变异雷史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：雷云祭坛 III",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "孤云寒林的光砂" },
+      { "name": "孤云寒林的辉岩" },
+      { "name": "孤云寒林的圣骸" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量；场景中会随机降下落雷，造成雷元素伤害，并耗尽角色的元素能量。落雷可能会产生雷光球。" ],
+    "monsterlist": [ "大型雷史莱姆", "变异雷史莱姆", "愚人众·雷萤术士" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：雷云祭坛 IV",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "孤云寒林的光砂" },
+      { "name": "孤云寒林的辉岩" },
+      { "name": "孤云寒林的圣骸" },
+      { "name": "孤云寒林的神体" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量；场景中会随机降下落雷，造成雷元素伤害，并耗尽角色的元素能量。落雷可能会产生雷光球。" ],
+    "monsterlist": [ "大型雷史莱姆", "变异雷史莱姆", "愚人众·雷萤术士" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：鸣雷城墟 I",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "雾海云间的铅丹" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量。" ],
+    "monsterlist": [ "雷史莱姆", "大型雷史莱姆", "变异雷史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：鸣雷城墟 II",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "雾海云间的铅丹" },
+      { "name": "雾海云间的汞丹" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量。" ],
+    "monsterlist": [ "雷史莱姆", "大型雷史莱姆", "变异雷史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：鸣雷城墟 III",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "雾海云间的铅丹" },
+      { "name": "雾海云间的汞丹" },
+      { "name": "雾海云间的金丹" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量；场景中会随机降下落雷，造成雷元素伤害，并耗尽角色的元素能量。落雷可能会产生雷光球。" ],
+    "monsterlist": [ "大型雷史莱姆", "变异雷史莱姆", "愚人众·雷萤术士" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：鸣雷城墟 IV",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "雾海云间的铅丹" },
+      { "name": "雾海云间的汞丹" },
+      { "name": "雾海云间的金丹" },
+      { "name": "雾海云间的转还" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量；场景中会随机降下落雷，造成雷元素伤害，并耗尽角色的元素能量。落雷可能会产生雷光球。" ],
+    "monsterlist": [ "大型雷史莱姆", "变异雷史莱姆", "愚人众·雷萤术士" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：古雷试炼场 I",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 15,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1125
+      },
+      {
+        "name": "好感经验",
+        "count": 10
+      },
+      { "name": "漆黑陨铁的一粒" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量。" ],
+    "monsterlist": [ "雷史莱姆", "大型雷史莱姆", "变异雷史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：古雷试炼场 II",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 36,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 21,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1550
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "漆黑陨铁的一粒" },
+      { "name": "漆黑陨铁的一片" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量。" ],
+    "monsterlist": [ "雷史莱姆", "大型雷史莱姆", "变异雷史莱姆" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：古雷试炼场 III",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 59,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 30,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1850
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "漆黑陨铁的一粒" },
+      { "name": "漆黑陨铁的一片" },
+      { "name": "漆黑陨铁的一角" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量；场景中会随机降下落雷，造成雷元素伤害，并耗尽角色的元素能量。落雷可能会产生雷光球。" ],
+    "monsterlist": [ "大型雷史莱姆", "变异雷史莱姆", "愚人众·雷萤术士" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  },
+  {
+    "name": "炼武秘境：古雷试炼场 IV",
+    "region": "璃月",
+    "domainentrance": "震雷连山密宫",
+    "domaintype": "武器突破素材",
+    "description": "这座雷鸣不止的古代祭祀场中，聚积了大量的雷元素之力。\n弥漫的电气会持续消解元素能量。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+    "recommendedlevel": 80,
+    "recommendedelements": [ "火元素", "冰元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 40,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2200
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "漆黑陨铁的一粒" },
+      { "name": "漆黑陨铁的一片" },
+      { "name": "漆黑陨铁的一角" },
+      { "name": "漆黑陨铁的一块" }
+    ],
+    "disorder": [ "周期性为角色施加「嗜能之雷」：在附着的雷元素消除之前，持续流失元素能量；场景中会随机降下落雷，造成雷元素伤害，并耗尽角色的元素能量。落雷可能会产生雷光球。" ],
+    "monsterlist": [ "大型雷史莱姆", "变异雷史莱姆", "愚人众·雷萤术士" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder" },
+    "version": ""
+  }
+]

@@ -1,0 +1,1490 @@
+[
+  {
+    "name": "精通秘境：炽炎祭场 I",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「繁荣」的教导" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火史莱姆", "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：炽炎祭场 II",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「繁荣」的教导" },
+      { "name": "「繁荣」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火史莱姆", "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：炽炎祭场 III",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「繁荣」的教导" },
+      { "name": "「繁荣」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：炽炎祭场 IV",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「繁荣」的教导" },
+      { "name": "「繁荣」的指引" },
+      { "name": "「繁荣」的哲学" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火斧丘丘暴徒", "愚人众·火之债务处理人" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：律藏 I",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「笃行」的教导" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹守卫", "遗迹龙兽·地巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：律藏 II",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「笃行」的教导" },
+      { "name": "「笃行」的指引" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹歼击者", "遗迹侦察者" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：律藏 III",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「笃行」的教导" },
+      { "name": "「笃行」的指引" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹龙兽·空巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：律藏 IV",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「笃行」的教导" },
+      { "name": "「笃行」的指引" },
+      { "name": "「笃行」的哲学" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹龙兽·空巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：焚尽之环 I",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「黄金」的教导" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火史莱姆", "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：焚尽之环 II",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「黄金」的教导" },
+      { "name": "「黄金」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火史莱姆", "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：焚尽之环 III",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「黄金」的教导" },
+      { "name": "「黄金」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：焚尽之环 IV",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「黄金」的教导" },
+      { "name": "「黄金」的指引" },
+      { "name": "「黄金」的哲学" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火斧丘丘暴徒", "愚人众·火之债务处理人" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：霜凝祭坛 I",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「自由」的教导" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：霜凝祭坛 II",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「自由」的教导" },
+      { "name": "「自由」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "打手丘丘人", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：霜凝祭坛 III",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「自由」的教导" },
+      { "name": "「自由」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加；场景中会随机落下冰柱，造成冰元素伤害。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：霜凝祭坛 IV",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「自由」的教导" },
+      { "name": "「自由」的指引" },
+      { "name": "「自由」的哲学" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加；场景中会随机落下冰柱，造成冰元素伤害。" ],
+    "monsterlist": [ "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：冰封废渊 I",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「抗争」的教导" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：冰封废渊 II",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「抗争」的教导" },
+      { "name": "「抗争」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "打手丘丘人", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：冰封废渊 III",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「抗争」的教导" },
+      { "name": "「抗争」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加；场景中会随机落下冰柱，造成冰元素伤害。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：冰封废渊 IV",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「抗争」的教导" },
+      { "name": "「抗争」的指引" },
+      { "name": "「抗争」的哲学" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加；场景中会随机落下冰柱，造成冰元素伤害。" ],
+    "monsterlist": [ "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：圆镜 I",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「诤言」的教导" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹守卫", "遗迹龙兽·地巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：圆镜 II",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「诤言」的教导" },
+      { "name": "「诤言」的指引" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹歼击者", "遗迹侦察者" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：圆镜 III",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「诤言」的教导" },
+      { "name": "「诤言」的指引" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹龙兽·空巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：圆镜 IV",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「诤言」的教导" },
+      { "name": "「诤言」的指引" },
+      { "name": "「诤言」的哲学" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹龙兽·空巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：深炎之底 I",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「勤劳」的教导" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火史莱姆", "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：深炎之底 II",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「勤劳」的教导" },
+      { "name": "「勤劳」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火史莱姆", "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：深炎之底 III",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「勤劳」的教导" },
+      { "name": "「勤劳」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "大型火史莱姆", "火深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：深炎之底 IV",
+    "region": "璃月",
+    "domainentrance": "太山府",
+    "domaintype": "天赋培养素材",
+    "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "水元素", "冰元素", "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「勤劳」的教导" },
+      { "name": "「勤劳」的指引" },
+      { "name": "「勤劳」的哲学" }
+    ],
+    "disorder": [ "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。" ],
+    "monsterlist": [ "火斧丘丘暴徒", "愚人众·火之债务处理人" ],
+    "images": { "namepic": "UI_DungeonPic_Fire" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：沉睡之国 I",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「诗文」的教导" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：沉睡之国 II",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「诗文」的教导" },
+      { "name": "「诗文」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "打手丘丘人", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：沉睡之国 III",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「诗文」的教导" },
+      { "name": "「诗文」的指引" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加；场景中会随机落下冰柱，造成冰元素伤害。" ],
+    "monsterlist": [ "冰史莱姆", "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：沉睡之国 IV",
+    "region": "蒙德",
+    "domainentrance": "忘却之峡",
+    "domaintype": "天赋培养素材",
+    "description": "这座寒冷的古代祭祀场中，聚积了大量的冰元素之力。\n其中刺骨的霜寒使人的举步维艰。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "雷元素", "火元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「诗文」的教导" },
+      { "name": "「诗文」的指引" },
+      { "name": "「诗文」的哲学" }
+    ],
+    "disorder": [ "周期性为角色施加「凝结之冰」：在附着的冰元素消除之前，体力消耗大幅增加；场景中会随机落下冰柱，造成冰元素伤害。" ],
+    "monsterlist": [ "大型冰史莱姆", "冰深渊法师" ],
+    "images": { "namepic": "UI_DungeonPic_Ice" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：菫染之国 I",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「浮世」的教导" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "丘丘人", "雷弹丘丘人", "雷箭丘丘人", "雷斧丘丘暴徒" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：菫染之国 II",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「浮世」的教导" },
+      { "name": "「浮世」的指引" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "野伏·阵刀番", "野伏·火付番", "野伏·机巧番", "盗宝团·火之药剂师", "盗宝团·雷之药剂师" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：菫染之国 III",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「浮世」的教导" },
+      { "name": "「浮世」的指引" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "野伏·火付番", "野伏·机巧番", "盗宝团·火之药剂师", "盗宝团·雷之药剂师", "海乱鬼·炎威" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：菫染之国 IV",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周一", "周四", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「浮世」的教导" },
+      { "name": "「浮世」的指引" },
+      { "name": "「浮世」的哲学" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "盗宝团·冰之药剂师", "海乱鬼·雷腾", "海乱鬼·炎威" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：初雷幽谷 I",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「风雅」的教导" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "丘丘人", "雷弹丘丘人", "雷箭丘丘人", "雷斧丘丘暴徒" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：初雷幽谷 II",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「风雅」的教导" },
+      { "name": "「风雅」的指引" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "野伏·阵刀番", "野伏·火付番", "野伏·机巧番", "盗宝团·火之药剂师", "盗宝团·雷之药剂师" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：初雷幽谷 III",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「风雅」的教导" },
+      { "name": "「风雅」的指引" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "野伏·火付番", "野伏·机巧番", "盗宝团·火之药剂师", "盗宝团·雷之药剂师", "海乱鬼·炎威" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：初雷幽谷 IV",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「风雅」的教导" },
+      { "name": "「风雅」的指引" },
+      { "name": "「风雅」的哲学" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "盗宝团·冰之药剂师", "海乱鬼·雷腾", "海乱鬼·炎威" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：真葛废都 I",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「天光」的教导" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "丘丘人", "雷弹丘丘人", "雷箭丘丘人", "雷斧丘丘暴徒" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：真葛废都 II",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「天光」的教导" },
+      { "name": "「天光」的指引" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "野伏·阵刀番", "野伏·火付番", "野伏·机巧番", "盗宝团·火之药剂师", "盗宝团·雷之药剂师" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：真葛废都 III",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「天光」的教导" },
+      { "name": "「天光」的指引" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "野伏·火付番", "野伏·机巧番", "盗宝团·火之药剂师", "盗宝团·雷之药剂师", "海乱鬼·炎威" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：真葛废都 IV",
+    "region": "稻妻",
+    "domainentrance": "菫色之庭",
+    "domaintype": "天赋培养素材",
+    "description": "在紫樱永远盛放的祭场中，潜伏着擅闯其中的魔物。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "雷元素" ],
+    "daysofweek": [ "周三", "周六", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「天光」的教导" },
+      { "name": "「天光」的指引" },
+      { "name": "「天光」的哲学" }
+    ],
+    "disorder": [ "队伍中所有角色获得25%雷元素伤害加成。", "挑战中存在雷晶实，其中会间歇性涌现「稚雷珠」。角色获取稚雷珠后，普通攻击、重击、下落攻击、元素战技与元素爆发在命中敌人时，会释放落雷，造成雷元素伤害。" ],
+    "monsterlist": [ "盗宝团·冰之药剂师", "海乱鬼·雷腾", "海乱鬼·炎威" ],
+    "images": { "namepic": "UI_DungeonPic_Thunder_Dq" },
+    "version": ""
+  },
+  {
+    "name": "精通秘境：妙语 I",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 38,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 1,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1575
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「巧思」的教导" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹守卫", "遗迹龙兽·地巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：妙语 II",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 54,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 28,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 1800
+      },
+      {
+        "name": "好感经验",
+        "count": 15
+      },
+      { "name": "「巧思」的教导" },
+      { "name": "「巧思」的指引" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹歼击者", "遗迹侦察者" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：妙语 III",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 71,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 36,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2050
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「巧思」的教导" },
+      { "name": "「巧思」的指引" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹龙兽·空巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  },
+  {
+    "name": "精通秘境：妙语 IV",
+    "region": "须弥",
+    "domainentrance": "昏识塔",
+    "domaintype": "天赋培养素材",
+    "description": "数百年前曾经点燃森林，最终又被击败的古代机械静静沉睡在地下的废都中。\n能够粉碎其中的机关魔物的话，或许能获得令人参悟天赋成长的物资吧。",
+    "recommendedlevel": 88,
+    "recommendedelements": [ "草元素", "雷元素", "火元素", "水元素" ],
+    "daysofweek": [ "周二", "周五", "周日" ],
+    "unlockrank": 45,
+    "rewardpreview": [
+      {
+        "name": "冒险阅历",
+        "count": 100
+      },
+      {
+        "name": "摩拉",
+        "count": 2375
+      },
+      {
+        "name": "好感经验",
+        "count": 20
+      },
+      { "name": "「巧思」的教导" },
+      { "name": "「巧思」的指引" },
+      { "name": "「巧思」的哲学" }
+    ],
+    "disorder": [ "造成元素伤害后的10秒内，队伍中所有角色造成的伤害提高10%。不同类型的元素伤害分别触发的该效果独立计时。至多叠加4次这种伤害提高效果。" ],
+    "monsterlist": [ "遗迹龙兽·地巡", "遗迹龙兽·空巡" ],
+    "images": { "namepic": "UI_DungeonPic_XMCharacter01" },
+    "version": "3.0"
+  }
+]

@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Materials.json" />
+    <None Remove="Data\Recipes.json" />
+    <None Remove="Data\TalentDomains.json" />
+    <None Remove="Data\WeaponDomains.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Recipes.json" />
+    <EmbeddedResource Include="Data\Materials.json" />
+    <EmbeddedResource Include="Data\TalentDomains.json" />
+    <EmbeddedResource Include="Data\WeaponDomains.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.OrTools" Version="9.5.2237" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+</Project>
