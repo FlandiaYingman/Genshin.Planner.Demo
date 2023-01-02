@@ -1,29 +1,32 @@
 ﻿using System.Reflection;
-using Google.OrTools.LinearSolver;
 using QuickType;
 using QuickType.Materials;
 using QuickType.Recipe;
+using Genshin.Planner.Demo.LinearProgrammingSolver;
+using static System.MidpointRounding;
 
 namespace Genshin.Planner.Demo
 {
     // Data from: https://genshindb-ia.netlify.app/
-    internal record Material(string Name, int Rarity)
+    internal record Material(string Name, string Id, int Rarity)
     {
         public static readonly List<Material> Materials = LoadMaterials();
+
         private static List<Material> LoadMaterials()
         {
             using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("Genshin.Planner.Demo.Data.Materials.json");
             if (stream == null) throw new FileNotFoundException();
             return MaterialJson.FromJson(new StreamReader(stream).ReadToEnd())
-                .Select(i => new Material(i.Name, (int?)i.Rarity ?? 0))
+                .Select(i => new Material(i.Name, i.Dupealias ?? i.Name, (int?)i.Rarity ?? 0))
                 .ToList();
         }
+
         public static Material? GetMaterial(string name)
         {
             return Materials.Find(i => i.Name == name);
         }
 
-        public Dictionary<Domain, Drop> GetDomainSources()
+        public Dictionary<Domain, Drop> GetSourcesDomain()
         {
             var w = Domain.WeaponDomains
                 .Where(x => x.Drops.Any(y => y.Material == this))
@@ -36,12 +39,13 @@ namespace Genshin.Planner.Demo
                 .Concat(t)
                 .ToDictionary(x => x.Key, x => x.Value);
         }
-        public List<Recipe> GetRecipeSources()
+
+        public List<Recipe> GetSourceRecipe()
         {
             return Recipe.Recipes.FindAll(x => x.Output == this);
         }
 
-        public Dictionary<Recipe, RecipeInput> GetRecipeUsages()
+        public Dictionary<Recipe, RecipeInput> GetUsagesRecipe()
         {
             return Recipe.Recipes
                 .Where(x => x.Inputs.Any(y => y.Material == this))
@@ -50,6 +54,7 @@ namespace Genshin.Planner.Demo
     }
 
     internal record Drop(Material Material, double QuantityAvg);
+
     // Data from: https://genshindb-ia.netlify.app/
     internal record Domain(string Name, int Level, List<Drop> Drops)
     {
@@ -57,21 +62,23 @@ namespace Genshin.Planner.Demo
         // 某稀有度的任意武器突破材料在某等级的对应秘境的平均掉落量。第一个维度为 0-3 的秘境等级，第二个维度为 0-3 的材料稀有度。
         private static readonly double[][] WeaponMaterialDropAvg =
         {
-            new double[] { 4.79, 0.00, 0.00, 0.00 },
-            new double[] { 2.71, 2.00, 0.00, 0.00 },
-            new double[] { 2.23, 2.78, 0.22, 0.00 },
-            new double[] { 2.20, 2.40, 0.64, 0.07 }
+            new[] { 4.79, 0.00, 0.00, 0.00 },
+            new[] { 2.71, 2.00, 0.00, 0.00 },
+            new[] { 2.23, 2.78, 0.22, 0.00 },
+            new[] { 2.20, 2.40, 0.64, 0.07 }
         };
+
         // 某稀有度的任意天赋培养材料在某等级的对应秘境的平均掉落量。第一个维度为 0-3 的秘境等级，第二个维度为 0-2 的材料稀有度。
         private static readonly double[][] TalentMaterialDropAvg =
         {
-            new double[] { 3.18, 0.00, 0.00 },
-            new double[] { 2.53, 1.00, 0.00 },
-            new double[] { 1.79, 2.00, 0.00 },
-            new double[] { 2.20, 1.97, 0.23 }
+            new[] { 3.18, 0.00, 0.00 },
+            new[] { 2.53, 1.00, 0.00 },
+            new[] { 1.79, 2.00, 0.00 },
+            new[] { 2.20, 1.97, 0.23 }
         };
 
         public static readonly List<Domain> WeaponDomains = LoadWeaponDomains();
+
         private static List<Domain> LoadWeaponDomains()
         {
             using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("Genshin.Planner.Demo.Data.WeaponDomains.json");
@@ -99,6 +106,7 @@ namespace Genshin.Planner.Demo
         }
 
         public static readonly List<Domain> TalentDomains = LoadTalentDomains();
+
         private static List<Domain> LoadTalentDomains()
         {
             using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("Genshin.Planner.Demo.Data.TalentDomains.json");
@@ -136,14 +144,20 @@ namespace Genshin.Planner.Demo
     }
 
     internal record RecipeInput(Material Material, double Quantity);
+
     // Data from: https://genshin.honeyhunterworld.com/fam_crafted/?lang=CHS
     internal record Recipe(string Id, Material Output, List<RecipeInput> Inputs)
     {
         public static List<Recipe> Recipes = LoadRecipe();
+
         private static List<Recipe> LoadRecipe()
         {
             using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("Genshin.Planner.Demo.Data.Recipes.json");
-            if (stream == null) { throw new FileNotFoundException(); }
+            if (stream == null)
+            {
+                throw new FileNotFoundException();
+            }
+
             var recipeCount = new Dictionary<string, int>();
             return RecipeJson.FromJson(new StreamReader(stream).ReadToEnd())
                 .Select(i =>
@@ -169,6 +183,7 @@ namespace Genshin.Planner.Demo
             new("「抗争」的哲学", 20),
             new("「黄金」的哲学", 20),
         };
+
         // 已有的材料
         static readonly Tuple<string, int>[] Stock =
         {
@@ -183,75 +198,90 @@ namespace Genshin.Planner.Demo
 
         private static void CalculateAction()
         {
-            var solver = Solver.CreateSolver("SCIP")!;
+            var solver = new LpSolver();
 
             // 用一个恒定为1的整形变量来表示背包里物品的系数。
-            var stock = solver.MakeIntVar(1, 1, "stock");
+            var vStock = solver.CreateVariable("stock");
+            vStock.LowerBound = 1.0;
+            vStock.UpperBound = 1.0;
+            vStock.ObjectiveCoefficient = 0;
 
             // 对于每种行动（秘境或合成），都赋一个整形变量代表。
-            Domain.WeaponDomains.ForEach(x => solver.MakeIntVar(0, double.PositiveInfinity, x.Name));
-            Domain.TalentDomains.ForEach(x => solver.MakeIntVar(0, double.PositiveInfinity, x.Name));
-            Recipe.Recipes.ForEach(x => solver.MakeIntVar(0, double.PositiveInfinity, x.Id));
+            Domain.WeaponDomains.ForEach(x =>
+            {
+                var v = solver.CreateVariable(x.Name);
+                v.LowerBound = 0;
+                v.ObjectiveCoefficient = DomainCost(x.Level);
+            });
+            Domain.TalentDomains.ForEach(x =>
+            {
+                var v = solver.CreateVariable(x.Name);
+                v.LowerBound = 0;
+                v.ObjectiveCoefficient = DomainCost(x.Level);
+            });
+            Recipe.Recipes.ForEach(x =>
+            {
+                var v = solver.CreateVariable(x.Id);
+                v.LowerBound = 0;
+                v.ObjectiveCoefficient = 0.1; // 为合成添加极小的代价，以防止合成不必要的材料。
+            });
 
             // 对于每种材料，添加最低为0的约束。特别地，对于需要的材料，添加最低为需求量的约束。
             // 每种材料的计算公式为：各行动的次数乘以其获得材料的期望值，再加上已有的材料
             Material.Materials.ForEach(x =>
             {
-                var constraint = solver.MakeConstraint(0, double.PositiveInfinity, x.Name);
+                var constraint = solver.CreateConstraint(x.Id);
+                constraint.LowerBound = 0;
+                constraint.UpperBound = double.PositiveInfinity;
 
                 // 添加约束下界为所需材料数
                 var demandMaterial = Array.Find(Demand, y => y.Item1 == x.Name);
                 if (demandMaterial != null)
-                    constraint.SetLb(demandMaterial.Item2);
+                    constraint.LowerBound = demandMaterial.Item2;
 
                 // 添加背包里已有的材料数
                 var stockMaterial = Array.Find(Stock, y => y.Item1 == x.Name);
                 if (stockMaterial != null)
-                    constraint.SetCoefficient(stock, stockMaterial.Item2);
+                    constraint.SetCoefficient("stock", stockMaterial.Item2);
 
                 // 添加秘境掉落的材料期望
-                x.GetDomainSources().ToList().ForEach(y =>
+                x.GetSourcesDomain().ToList().ForEach(y =>
                 {
                     var (domain, drop) = y;
-                    constraint.SetCoefficient(solver.LookupVariableOrNull(domain.Name), drop.QuantityAvg);
-                });
-                // 添加合成出的材料
-                x.GetRecipeUsages().ToList().ForEach(y =>
-                {
-                    var (recipe, input) = y;
-                    constraint.SetCoefficient(solver.LookupVariableOrNull(recipe.Id), -input.Quantity);
+                    constraint.SetCoefficient(domain.Name, drop.QuantityAvg);
                 });
                 // 添加合成消耗的材料
-                x.GetRecipeSources().ForEach(y =>
+                x.GetUsagesRecipe().ToList().ForEach(y =>
                 {
-                    constraint.SetCoefficient(solver.LookupVariableOrNull(y.Id), 1.0);
+                    var (recipe, input) = y;
+                    constraint.SetCoefficient(recipe.Id, -input.Quantity);
                 });
+                // 添加合成出的材料
+                x.GetSourceRecipe().ForEach(y => { constraint.SetCoefficient(y.Id, 1.0); });
             });
 
-            var weaponCostFunc = Domain.WeaponDomains.Select(x => solver.LookupVariableOrNull(x.Name) * DomainCost(x.Level)).Aggregate((x, y) => x + y);
-            var talentCostFunc = Domain.TalentDomains.Select(x => solver.LookupVariableOrNull(x.Name) * DomainCost(x.Level)).Aggregate((x, y) => x + y);
-            var recipeCostFunc = Recipe.Recipes.Select(x => solver.LookupVariableOrNull(x.Id) * 0.0001).Aggregate((x, y) => x + y);
-            solver.Minimize(weaponCostFunc + talentCostFunc + recipeCostFunc);
+            var status = solver.Solve(LpSolver.ProblemType.Minimize);
 
-            var resultStatus = solver.Solve();
-            Console.WriteLine(resultStatus);
-            Console.WriteLine($"所需原萃树脂：{solver.Objective().Value()}");
-            solver.variables()
-                .Where(variable => variable.Name() != "stock")
-                .Where(variable => variable.SolutionValue() != 0)
+            Console.WriteLine(status);
+            // 由于：一、此规划不是整数规划；二、cost function 中有一些小数点来指定优先级；这不是准确的原萃树脂消耗量。
+            // 准确的原萃树脂消耗量需要取整“刷取/合成”次数后，乘以对应的树脂消耗量再求和。
+            Console.WriteLine($"所需原萃树脂（近似）：{solver.OptimumValue}");
+            solver.VariableList
+                .Where(x => x.Name != "stock")
+                .Where(x => Math.Round(x.OptimizerValue, 2) != 0)
                 .ToList()
-                .ForEach(x => Console.WriteLine($"\t{x.Name()} => 刷取/合成 {x.SolutionValue()} 次"));
+                .ForEach(x => Console.WriteLine($"\t{x.Name} => 刷取/合成 {Math.Round(x.OptimizerValue, ToZero)} 次"));
         }
 
         private static double DomainCost(int level)
         {
-            // 优先选择高等级的秘境
+            // 优先选择高等级的秘境，所以高等级的秘境的消耗较少。
             return level switch
             {
-                0 => 20.003,
-                1 => 20.002,
-                2 => 20.001,
-                3 => 20.000,
+                0 => 20.03,
+                1 => 20.02,
+                2 => 20.01,
+                3 => 20.00,
                 _ => throw new ArgumentException($"{level} can only be 0, 1, 2 or 3.")
             };
         }
